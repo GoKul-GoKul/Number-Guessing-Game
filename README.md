@@ -2,7 +2,7 @@
 
 A fun, interactive, and beautifully designed **Number Guessing Game** built with HTML, CSS, and JavaScript. Challenge yourself to guess the secret number within the fewest attempts possible!
 
-![Game Preview](https://via.placeholder.com/800x400?text=Number+Guessing+Game+Preview)  
+![Game Preview]([https://via.placeholder.com/800x400?text=Number+Guessing+Game+Preview](https://gokul-gokul.github.io/Number-Guessing-Game/))  
 *(Note: You can replace this placeholder link with an actual screenshot of your game)*
 
 ---
